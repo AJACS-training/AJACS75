@@ -1,4 +1,4 @@
-# All-in-one 合同講習会 2018／統合データベース講習会：AJACS 番町２
+# All-in-one 合同講習会 2018／統合データベース講習会：AJACS 番町2
 
 ### 公式ウェブページ
 [All-in-one 合同講習会 2018／統合データベース講習会：AJACS 番町２](https://events.biosciencedbc.jp/training/ajacs75)  
